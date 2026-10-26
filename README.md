@@ -1,17 +1,17 @@
 # 🔄 Quantum Convolutional Neural Networks (QCNN) Papers
 
 This section of the **Quantum AI Papers** repository focuses on **Quantum Convolutional Neural Networks (QCNN)**.  
-QTL leverages knowledge from pre-trained quantum or hybrid quantum-classical models and adapts it to new tasks or domains. This paradigm plays a crucial role in overcoming limitations of small datasets, reducing training costs, and accelerating the deployment of quantum-enhanced AI systems.  
+ QCNNs use quantum convolution, pooling, entanglement, and measurement to build hierarchical feature extractors for quantum and classical data. This collection tracks architectures, theory, training methods, and applications of quantum convolutional neural networks, including hybrid implementations for near-term hardware.  
 
 ---
 
 ## 📚 Scope
 Research papers in this category explore:
-- Transfer of learned quantum circuit parameters between tasks  
-- Hybrid classical–quantum transfer learning frameworks  
-- Applications of QTL in physics, chemistry, medical imaging, and natural language processing  
-- Optimization strategies to mitigate issues such as barren plateaus  
-- Cross-domain transfer of quantum models for practical real-world problems  
+- QCNN architectures, quantum convolution and pooling, and circuit design  
+- Symmetry-preserving, equivariant, resource-efficient, and error-tolerant QCNNs  
+- Hybrid and fully quantum models for image, signal, phase, and scientific-data classification  
+- Trainability, expressivity, optimization, measurement, and hardware constraints  
+- Applications of QCNNs in vision, autonomous driving, medical imaging, physics, and other domains  
 
 ---
 
@@ -130,6 +130,22 @@ Contributions are welcome! Please ensure that new entries include:
 ---
 
 ---
+
+## 🆕 Newly added and verified literature (2025–2026)
+
+These papers were screened for direct relevance to quantum convolutional neural networks and added to `metadata/QCNN.xlsx`.
+
+| title | year | publisher | Author | link | category |
+|:--|--:|:--|:--|:--|:--|
+| Resource-efficient equivariant quantum convolutional neural networks | 2026 | Springer Nature | Koki Chinzei; Quoc Hoan Tran; Yasuhiro Endo; Hirotaka Oshima | https://doi.org/10.1007/s42484-026-00397-2 | QCNN |
+| Quantum Convolutional Neural Networks: A Survey on Architectures, Applications, and Future Directions | 2026 | IEEE | Ratun Rahman; Dinh C. Nguyen | https://doi.org/10.1109/TNNLS.2026.3677762 | QCNN |
+| Systematic Literature Review of Quantum Convolutional Neural Networks and Circuit Optimization | 2026 | MDPI | Aksultan Mukhanbet; Paulo Trigo; Beimbet Daribayev; Darkhan Akhmed-Zaki | https://doi.org/10.3390/a19060490 | QCNN |
+| Hybrid quantum convolutional neural network with differential privacy for image classification | 2026 | AIP Publishing | Bai Liu; Hao Chen; Shuheng Qi | https://doi.org/10.1063/5.0315435 | QCNN |
+| Subspace preserving quantum convolutional neural network architectures | 2025 | IOP Publishing | Léo Monbroussou; Jonas Landman; Letao Wang; Alex B. Grilo; Elham Kashefi | https://doi.org/10.1088/2058-9565/adbf43 | QCNN |
+| Computation-efficient quantum convolutional neural networks for autonomous driving applications | 2025 | Springer Nature | Emily Jimin Roh; Chaemoon Im; Wonjun Jeong; Soohyun Park | https://doi.org/10.1007/s11227-025-07507-0 | QCNN |
+| A multi-topology quantum convolutional neural network with qubit-measurement attention for image classification | 2025 | Elsevier | QingShan Wu; WenJie Liu; XinRan Li; Zhaofeng Su; Jian Lei | https://doi.org/10.1016/j.engappai.2025.111705 | QCNN |
+
+
 
 ## Authors and contributors
 
