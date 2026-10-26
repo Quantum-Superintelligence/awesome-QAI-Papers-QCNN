@@ -144,6 +144,13 @@ These papers were screened for direct relevance to quantum convolutional neural 
 | Subspace preserving quantum convolutional neural network architectures | 2025 | IOP Publishing | Léo Monbroussou; Jonas Landman; Letao Wang; Alex B. Grilo; Elham Kashefi | https://doi.org/10.1088/2058-9565/adbf43 | QCNN |
 | Computation-efficient quantum convolutional neural networks for autonomous driving applications | 2025 | Springer Nature | Emily Jimin Roh; Chaemoon Im; Wonjun Jeong; Soohyun Park | https://doi.org/10.1007/s11227-025-07507-0 | QCNN |
 | A multi-topology quantum convolutional neural network with qubit-measurement attention for image classification | 2025 | Elsevier | QingShan Wu; WenJie Liu; XinRan Li; Zhaofeng Su; Jian Lei | https://doi.org/10.1016/j.engappai.2025.111705 | QCNN |
+| Quantum convolutional neural network for MRI brain tumor analysis: Binary and multiclass classification using a four-qubit architecture | 2026 | Elsevier | Sitti Yani; Sugih Pratama Nugraha; Ariiq Islam Alfajri; Tony Sumaryada; Duong Thanh Tai; Hiba Omer; Nissren Tamam; Abdelmoneim Sulieman | https://doi.org/10.1016/j.radphyschem.2025.113545 | QCNN |
+| Quantum convolutional neural network-based hybrid network for remote sensing image classification | 2026 | Elsevier | H. N. Mahendra; V. Pushpalatha; S. Mallikarjunaswamy; S. Rama Subramoniam; J. Praveen | https://doi.org/10.1016/j.engappai.2025.113195 | QCNN |
+| A novel qVGG-4 model for optimizing a parameterized quantum circuit in a quantum-IoT-based brain tumor detection and monitoring system | 2026 | Elsevier | Md Taimur Ahad; Bo Song; Yan Li | https://doi.org/10.1016/j.cmpb.2026.109362 | QCNN |
+| A novel quantum convolutional neural network framework for quantum-enhanced classification of pixelated colour images | 2026 | Nature Portfolio | Chisomo Daka; Somnath Bhattacharyya | https://doi.org/10.1038/s41598-026-45140-w | QCNN |
+| A Distributed Hybrid Quantum Convolutional Neural Network for Medical Image Classification | 2025 | arXiv | Yangyang Li; Zhengya Qi; Yuelin Li; Haorui Yang; Ronghua Shang; Licheng Jiao | https://arxiv.org/abs/2501.06225 | QCNN |
+| Hybrid Vision Transformer and Quantum Convolutional Neural Network for Image Classification | 2025 | arXiv | Mingzhu Wang; Yun Shang | https://arxiv.org/abs/2510.12291 | QCNN |
+| Efficient Gate-Encoded Quantum Convolutional Neural Network with Channel Attention for Image Classification | 2025 | IEEE | Yongzhe Lin; Guanting Yu; Tianze Zhu; Xiaofeng Jiang | https://doi.org/10.1109/ICTAI66417.2025.00079 | QCNN |
 
 
 
